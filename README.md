@@ -146,8 +146,8 @@ Accepts CSV rows and returns AI-mapped CRM records.
 
 ## Live Demo
 
-- Frontend: _add deployed URL here_
-- Backend: _add deployed URL here_
+- Frontend: https://grow-easy-pied.vercel.app
+- Backend: https://groweasy-6kdy.onrender.com
 
 ---
 
